@@ -1,0 +1,34 @@
+# Virtual environments
+.venv/
+.venv_old/
+env/
+venv/
+
+# Claude / AI tool config
+.claude/
+
+# Untitled notebooks
+Untitled-*.ipynb
+
+# Output files
+report and data/
+writing_outputs/
+sources/
+
+# Misc scripts not part of main project
+generate_chapter4_docx.py
+run_scientific_writer_ch4.py
+cell91_git.txt
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
